@@ -25,7 +25,7 @@ from selenium.webdriver.chrome.service import Service
 
 # In[40]:
 
-
+print("hello world!")
 servico = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service = servico)
 driver.get('https://www.mercante.transportes.gov.br/g36127/servlet/serpro.siscomex.mercante.servlet.MercanteController')
