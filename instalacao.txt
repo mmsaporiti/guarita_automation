@@ -1,0 +1,27 @@
+Instalação do programa em computadores guarita
+
+baixar anaconda
+
+baixar git
+download www.git-scm.com
+
+configurando
+	- usuário:
+		- git config --global user.name "Marcos Saporiti"
+			
+	- email:
+		- git config --global user.email "msapo@hotmail.com"
+
+- Criando pasta para o projeto
+	- mkdir git-course (cria a pasta git-course)
+
+	- Entrar na pasta:
+		- cd git-course
+
+	- Inicializar um repositório
+		- Git init
+			- responsáevl por inicializar o repositório e observar mudanças no projeto
+
+
+clonar repositório
+
