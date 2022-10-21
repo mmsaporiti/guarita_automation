@@ -1,0 +1,13 @@
+identificação do contêiner:
+/html/body/form/table[3]/tbody/tr/td[2]/fieldset/table/tbody/tr[2]/td[1]/input
+
+Tara contêiner
+/html/body/form/table[3]/tbody/tr/td[2]/fieldset/table/tbody/tr[2]/td[2]/input
+
+Tipo Contêiner
+/html/body/form/table[3]/tbody/tr/td[2]/fieldset/table/tbody/tr[2]/td[3]/input
+
+
+
+incluir
+<input class="bt1" type="button" name="IncContainer" value="Incluir" style="width:55" onclick="JavaScript:self.IncluiContainerVazio(document.forms[0].txtNrContainer, document.forms[0].codTipoContainer, document.forms[0].txtTara,document.forms[0].lstNumeroContainer, document.forms[0].lstCodTipoContainer,document.forms[0].lstTaraContainer ) ">
